@@ -1,7 +1,7 @@
 {
   "name": "meme-generator-api",
   "packageManager": "yarn@4.4.0",
-  "description": "API Wrapper for MeetWq/meme-generator using @cordisjs/plugin-http",
+  "description": "API Wrapper for MemeCrafters/meme-generator using @cordisjs/plugin-http",
   "version": "0.1.0",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
