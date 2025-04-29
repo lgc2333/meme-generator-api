@@ -1,5 +1,5 @@
-import { readFileSync } from 'fs'
-import path from 'path'
+import { readFileSync } from 'node:fs'
+import path from 'node:path'
 
 import { HTTP } from '@cordisjs/plugin-http'
 import { expect, use } from 'chai'
