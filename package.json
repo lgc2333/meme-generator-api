@@ -1,6 +1,6 @@
 {
   "name": "meme-generator-api",
-  "packageManager": "yarn@4.4.0",
+  "packageManager": "yarn@4.9.1",
   "description": "API Wrapper for MemeCrafters/meme-generator using @cordisjs/plugin-http",
   "version": "0.1.0",
   "main": "dist/index.cjs",
@@ -27,7 +27,7 @@
     "@cordisjs/plugin-http": "^0.6.3"
   },
   "devDependencies": {
-    "@types/chai": "^5.2.1",
+    "@types/chai": "^5.2.2",
     "@types/chai-as-promised": "^8.0.2",
     "@types/mocha": "^10.0.10",
     "chai": "^5.2.0",
@@ -35,7 +35,7 @@
     "dotenv": "^16.5.0",
     "dumble": "^0.2.2",
     "mocha": "^11.2.2",
-    "tsx": "^4.19.3",
+    "tsx": "^4.19.4",
     "typescript": "^5.8.3"
   }
 }
